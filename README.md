@@ -1,6 +1,6 @@
-1. AI-Driven Manufacturing Intelligence
+# 1. AI-Driven Manufacturing Intelligence
 Adaptive Multi-Target Prediction for Energy & Carbon Optimization
-2. Project Overview
+## 2. Project Overview
 
 The manufacturing sector faces increasing pressure to reduce energy consumption and carbon emissions while maintaining production quality, yield, and performance.
 
@@ -18,7 +18,7 @@ Real-time sustainability-driven decision support
 
 The system simultaneously predicts Quality, Yield, Performance, and Energy Consumption at the batch level.
 
-3. Problem Statement
+## 3. Problem Statement
 3.1 Industrial Challenges
 
 Modern manufacturing systems experience:
@@ -45,7 +45,7 @@ Support adaptive carbon-aware decision making
 
 Enable proactive reliability correction
 
-4. Solution Approach (Track A – Predictive Modelling)
+## 4. Solution Approach (Track A – Predictive Modelling)
 4.1 Multi-Target Prediction System
 
 The model predicts:
@@ -80,7 +80,7 @@ Sustainability recommendations if thresholds are exceeded
 
 Users input process parameters, and the system generates an intelligent batch performance report.
 
-5. System Architecture
+## 5. System Architecture
 IIoT Sensors / Smart Meters
         ↓
 Data Ingestion Layer
@@ -96,7 +96,7 @@ Energy Pattern Analyzer
 Carbon Intelligence Engine
         ↓
 Decision Support Output
-6. Machine Learning Framework
+## 6. Machine Learning Framework
 6.1 Model Selection
 
 MultiOutputRegressor
@@ -125,7 +125,7 @@ Interpret model predictions
 
 Enhance trust in AI decision-making
 
-7. Data Pipeline
+## 7. Data Pipeline
 7.1 Dataset
 
 Synthetic manufacturing dataset (4000+ batches)
@@ -148,7 +148,7 @@ Carbon per unit output
 
 Process intensity index
 
-8. Key Features
+## 8. Key Features
 
 Multi-target high-accuracy prediction
 
@@ -160,7 +160,7 @@ Deployment-ready model export
 
 Real-time batch analysis
 
-9. Business Impact
+## 9. Business Impact
 
 Estimated industrial benefits:
 
@@ -176,7 +176,7 @@ Early asset reliability insights
 
 The framework enables predictive, sustainability-driven manufacturing management.
 
-10. Deployment Readiness
+## 10. Deployment Readiness
 
 The trained model is exported as:
 
@@ -192,7 +192,7 @@ Edge AI factory environments
 
 Digital Twin platforms
 
-11. Limitations
+## 11. Limitations
 
 Synthetic dataset
 
@@ -200,7 +200,7 @@ No live IIoT streaming
 
 Limited time-series depth
 
-12. Future Scope
+## 12. Future Scope
 
 Real-time IIoT integration
 
@@ -214,7 +214,7 @@ Carbon credit system integration
 
 Industry 5.0 alignment
 
-13. Academic & Industrial Contribution
+## 13. Academic & Industrial Contribution
 
 This project demonstrates:
 
@@ -228,7 +228,7 @@ Carbon-aware predictive analytics
 
 Batch-level adaptive forecasting
 
-14. Developed By
+## 14. Developed By
 
 Abhienaya Sri
 AI-Driven Manufacturing Intelligence – Predictive Modelling Track
